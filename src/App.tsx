@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import { useState } from "react";
 
 export default function App() {
   const BASE_API_URL = "http://127.0.0.1:5000/";
